@@ -1,0 +1,7 @@
+streamlit
+PyMuPdf
+spacy
+torch
+scikit-learn
+transformers
+sentencepiece
