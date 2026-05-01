@@ -1,9 +1,8 @@
 streamlit
-pymupdf
+PyMuPDF
 spacy
 torch
 scikit-learn
 transformers
 sentencepiece
-PyMuPDF==1.23.7
-PyMuPDF
+
